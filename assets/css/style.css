@@ -201,3 +201,10 @@ input[type=submit] {
     color: white;
     width: 320px;
 }
+
+@media screen and (max-width: 768px) {
+
+    p {
+        color: black;
+    }
+}
